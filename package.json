@@ -1,7 +1,7 @@
 {
-  "name": "uni-converter",
+  "name": "youbike-genie",
   "version": "0.1.0",
-  "description": "單位換算工具",
+  "description": "自然語言 YouBike 查詢助理",
   "type": "module",
   "main": "main.js",
   "scripts": {
